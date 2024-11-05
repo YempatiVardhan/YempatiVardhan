@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YempatiVardhan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in AI Engineer. 
+- 🌱 I’m currently learning about AI models and Algorithms 
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me vardhan.y007@gmail.com
 
